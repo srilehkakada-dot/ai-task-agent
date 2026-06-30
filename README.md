@@ -3,7 +3,9 @@
 An AI agent built with **Groq** (free, blazing-fast Llama 3.3 70B) that manages your tasks and
 summarizes your inbox using **tool-calling** — the core building block of agentic AI systems.
 
-This is Phase 1 of a 1-year roadmap into AI Agents.
+## Live Demo :- https://ai-task-agent-bkwe9qnzslatzjccowrepa.streamlit.app/
+
+##Premium Replit Live :- groq-python-convert--srilehkakada.replit.app ( Expires in 30 days )
 
 ## What makes this an "agent" and not just a chatbot?
 
